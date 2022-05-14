@@ -1,0 +1,16 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.5;
+
+    background-color: mintcream;
+    color: #333333;
+    width: 980px;
+    margin: 0 auto;
+
+}
+
+.image {
+    width: 50%;
+    height: 50%;
+    margin-top: 30px;
+}
